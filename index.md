@@ -1,9 +1,9 @@
-## Welcome to my Page
+# Welcome to my Page
 
 Jared Gill - Bachelors in Computer Science at the University of Maryland, College Park
 Contact - gill.jrd@gmail.com
 
-### Latest Project
+## Latest Project
 
-# Time Crawler
+### Time Crawler
 Youtube: https://www.youtube.com/watch?v=es4VFJQfWe8
