@@ -1,6 +1,6 @@
 # Welcome to my Page
 
-Jared Gill - Bachelors in Computer Science at the University of Maryland, College Park
+Jared Gill - Bachelors in Computer Science at the University of Maryland, College Park<br/>
 Contact - gill.jrd@gmail.com
 
 ## Latest Project
