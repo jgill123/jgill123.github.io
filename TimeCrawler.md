@@ -1,8 +1,8 @@
 # Time Crawler
 Created by:
-Jared Gill - Lead Gameplay Programmer,
-Justen Perdikis - Lead Level Designer, 
-Divya Rawal - Lead Animation and Art Director
+Jared Gill - Lead Gameplay Programmer,<br/>
+Justen Perdikis - Lead Level Designer,<br/>
+Divya Rawal - Lead Animation and Art Director<br/>
 
 
 ## Use the link below to download:
